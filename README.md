@@ -1,2 +1,1 @@
-# Craps Game in C++
- 
+# acc-cpp-craps-simple
